@@ -5,6 +5,13 @@ Each project includes full source code, setup guides, and integration notes to h
 
 Explore, fork, and remix real examples to jumpstart your own builds — and share what you create with the community!
 
+## Usage
+
+To clone this repo with the projects included:
+```bash
+git clone --recurse-submodules https://github.com/mantahq/creators-wall
+```
+
 ## Showcase
 
 ### 1. eShopExchange

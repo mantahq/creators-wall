@@ -12,6 +12,11 @@ To clone this repo with the projects included:
 git clone --recurse-submodules https://github.com/mantahq/creators-wall
 ```
 
+If you already cloned the repository without that flag, initialize the submodules:
+```bash
+git submodule update --init --recursive
+```
+
 ## Showcase
 
 ### 1. eShopExchange

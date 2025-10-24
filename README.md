@@ -11,6 +11,6 @@ Explore, fork, and remix real examples to jumpstart your own builds — and shar
 
 eShopExchange is an online marketplace built using the MantaHQ SDK. It includes full CRUD operations, real-time search, filtering, and pagination.
 
-![Screenshot of eShopExchange](./eShopExchange/public/preview.png)
+![Screenshot of eShopExchange](https://github.com/trevorcj/eShopExchange/blob/c7814189894ca1c99648e25fd0d440f66065890a/public/preview.png?raw=true)
 
 **DEMO:** [https://eshopexchange.netlify.app/](https://eshopexchange.netlify.app/)

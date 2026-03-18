@@ -8,11 +8,13 @@ Explore, fork, and remix real examples to jumpstart your own builds — and shar
 ## Usage
 
 To clone this repo with the projects included:
+
 ```bash
 git clone --recurse-submodules https://github.com/mantahq/creators-wall
 ```
 
 If you already cloned the repository without that flag, initialize the submodules:
+
 ```bash
 git submodule update --init --recursive
 ```
@@ -26,3 +28,11 @@ eShopExchange is an online marketplace built using the MantaHQ SDK. It includes 
 ![Screenshot of eShopExchange](https://github.com/trevorcj/eShopExchange/blob/c7814189894ca1c99648e25fd0d440f66065890a/public/preview.png?raw=true)
 
 **DEMO:** [https://eshopexchange.netlify.app/](https://eshopexchange.netlify.app/)
+
+### 2. Nairah
+
+Nairah is a project showcasing how to set up authentication (signup, login, protected routing) with [Manta](mantahq.com).
+
+![Screenshot of Nairah](https://raw.githubusercontent.com/trevorcj/nairah/refs/heads/main/preview.png)
+
+**DEMO:** [https://nairah.vercel.app/login](https://nairah.vercel.app/login)
